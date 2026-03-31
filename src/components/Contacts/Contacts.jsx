@@ -1,7 +1,7 @@
 import "./Contacts.css";
-import facebook from "../assets/facebook.png"
-import telephone from "../assets/telephone.png"
-import gmail from "../assets/gmail.png"
+import facebook from "../assets/facebook.png";
+import telephone from "../assets/telephone.png";
+import gmail from "../assets/gmail.png";
 
 function Contacts() {
   return (
