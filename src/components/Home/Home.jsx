@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./Home.css";
-import foto from '../assets/foto.png';
+import foto from "../../assets/foto.png";
 
 function Home() {
   const [isOpen, setIsOpen] = useState(false);
